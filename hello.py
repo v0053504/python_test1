@@ -13,7 +13,7 @@ def print2(str):
 print("that")
 print2("that")
 
-"Def print 3"
+
 def print3(str):
     print(str + "...")
 
